@@ -5,5 +5,5 @@ MYTHOS CODEFEST 4.0
 ## Repositories
 - Frontend:
 https://github.com/PraveenSS3B/VISTA-AI-TRAVEL-ASSISTANT.git
--Backend:
+- Backend:
 https://github.com/PraveenSS3B/VISTA-BACKEND.git
